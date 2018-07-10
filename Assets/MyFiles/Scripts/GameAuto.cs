@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
 
-//------------测试git-----------
+//------------测试git----------- ****
 public class GameAuto : MonoBehaviour {
     public static GameAuto instance;
     public GameObject _parent;
